@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+}
+
+#gameScreen {
+  border: 1px solid black;
+}
+
+#image_ball {
+  width: 25px;
+  height: 25px;
+}
+img {
+  display: none;
+}
+
+
+/*# sourceMappingURL=/styles.dd855970.css.map */
